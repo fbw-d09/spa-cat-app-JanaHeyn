@@ -1,0 +1,14 @@
+.Loading
+{   
+    display: flex;
+    justify-content: center;
+    // border: 2px solid red;
+
+    &__image
+    {
+        display: block;
+        width: 60%;
+        // height: auto;
+
+    }
+}
